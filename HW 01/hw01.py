@@ -5,7 +5,6 @@ import math
 def classify_triangle(a, b, c):
 
     try:
-
         a = float(a)
         b = float(b)
         c = float(c)
