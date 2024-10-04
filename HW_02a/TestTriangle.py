@@ -6,8 +6,7 @@ Updated Oct 3, 2024
 """
 
 """
-Below features all of the test cases I've used for this assignment. After fixing Triangle.py, 
-some cases that are purposely wrong should our put the "correct" wrong output
+Below features all of the test cases I've used for this assignment.
 """
 
 import unittest
