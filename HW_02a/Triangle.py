@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 14 13:44:00 2016
-Updated Oct, 2024
+Updated Oct 3, 2024
 
 The primary goal of this file is to demonstrate a simple python program to classify triangles
 
