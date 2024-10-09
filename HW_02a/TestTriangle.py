@@ -14,7 +14,7 @@ Below features all of the test cases I've used for this assignment.
 import unittest
 
 from Triangle import classifyTriangle
-
+# TEST
 # This code implements the unit test functionality
 # https://docs.python.org/3/library/unittest.html has a nice description of the framework
 
